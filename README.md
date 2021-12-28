@@ -1,4 +1,4 @@
-# Owen Bick's Website
-This is the code for my personal website. 
+# Owen Bick's Website CDN
+This is the CDN branch for my website. 
 
-You can view it at [owenbick.com](https://owenbick.com).
+The main website is located at [owenbick.com](https://owenbick.com).
