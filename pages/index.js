@@ -7,12 +7,12 @@ export default function Home() {
     <>
       <Head>
         <title>
-          Owen Bick – A product designer and web developer based in Boston
+          Ned Ryerson - Im a people person
         </title>
         <link rel="icon" href="./static/favicon.ico" />
         <meta
           name="description"
-          content="Owen Bick is a product designer and web developer based in Boston."
+          content="Ned Ryerson Im a people person."
         />
         <meta name="author" content="Owen Bick" />
       </Head>
@@ -48,10 +48,10 @@ export default function Home() {
         <section className="hero">
           <div className="container">
             <h1>
-              Hi, I&apos;m <span className="line">Owen Bick</span>{" "}
+              Hi, I&apos;m <span className="line">Ned Ryerson</span>{" "}
               <span className="wave">👋</span>
             </h1>
-            <h2>I&apos;m a product designer and web developer based in Boston</h2>
+            <h2>I&apos;m a people person, people like me</h2>
           </div>
         </section>
         <section className="portfolio">
@@ -95,22 +95,22 @@ export default function Home() {
           <div className="container">
             <h3>Follow me</h3>
             <span>Twitter: </span>
-            <a href="//twitter.com/owenbick" target="_blank">@owenbick</a>
+            <a href="//twitter.com/VaLandscapes" target="_blank">@VaLandscapes</a>
             <br />
             <span>LinkedIn: </span>
-            <a href="//linkedin.com/in/bick" target="_blank">@bick</a>
+            <a href="//linkedin.com/in/alecbcampbell" target="_blank">@alecbcampbell</a>
             <br />
-            <span>ProductHunt: </span>
-            <a href="//producthunt.com/@bick" target="_blank">@bick</a>
+            <span>Codepen: </span>
+            <a href="//codepen.com/@uvacoder" target="_blank">@uvacoder</a>
             <br />
-            <span>Instagram: </span>
-            <a href="//instagram.com/owenbick" target="_blank">@owenbick</a>
+            <span>Hashnode: </span>
+            <a href="//hashnode.com/@uvacoder" target="_blank">@uvacoder</a>
             <br />
             <span>GitHub: </span>
-            <a href="//github.com/bick" target="_blank">@bick</a>
+            <a href="//github.com/uvacoder" target="_blank">@uvacoder</a>
             <br />
             <span>Dribbble: </span>
-            <a href="//dribbble.com/bick" target="_blank">@bick</a>
+            <a href="//dribbble.com/uvacoder" target="_blank">@uvacoder</a>
           </div>
         </section>
       </Layout>
@@ -134,7 +134,7 @@ export default function Home() {
             </li>
           </ul>
           <span>
-            Copyright &copy; 2022 Owen Bick. All Rights Reserved. This website
+            Copyright &copy; 2022 uvacoder. All Rights Reserved. This website
             doesn’t use any cookies.
           </span>
         </div>
